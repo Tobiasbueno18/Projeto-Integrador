@@ -40,4 +40,3 @@ Marina Moretti: SOP.
 Pedro Souza: ARI.
 Tobias Bueno: LER.
 Victor Alves: LOP.
-
