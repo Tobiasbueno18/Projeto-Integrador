@@ -35,9 +35,12 @@ Centralizar as informações da agência, facilitar o atendimento aos clientes e
 
 ## Autores
 
-Isabela Marchiori: Apresentação.
-Marina Moretti: SOP.
-Pedro Souza: ARI.
-Tobias Bueno: LER.
-Victor Alves: LOP.
+Isabela Marchiori: Apresentação
 
+Marina Moretti: SOP
+
+Pedro Souza: ARI
+
+Tobias Bueno: LER
+
+Victor Alves: LOP
